@@ -1,0 +1,1 @@
+# cpatu_events_rabbitmq
