@@ -1,4 +1,4 @@
-# RabbitMQ ejemplos para CPATU
+# RabbitMQ ejemplos
 
 Hay dos scripts para el ejemplo: 
 * **sender.py**: envia un mensaje random a la cola **vet_events_queue** en cada ejecución.
